@@ -4,5 +4,4 @@ I am **Debadipti Patra**, an ugly JavaScript Developer who makes the web beautif
 
 ### [Visit my small website](https://debadipti.me/)
 
-[![madCoding][1]][1]
-[1]: https://i.stack.imgur.com/nxENv.gif
+![Mad Coder](https://i.stack.imgur.com/nxENv.gif)
